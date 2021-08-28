@@ -1,0 +1,1 @@
+Builds x86 and x64 versions of libsecp256k1-0.dll in dockerized environment and saves results in ./build-results/ folder.
